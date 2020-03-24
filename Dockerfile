@@ -1,4 +1,4 @@
-FROM docker.bluelight.limited/feingkai/mkiii-rvm-image
+FROM docker.bluelight.limited:5000/feingkai/mkiii-rvm-image
 
 
 # # # Create user
